@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422dca8e-d242-4612-8562-965c3736fdfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NodeProgect/main_02.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -55,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NodeProgect/main_02.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="432">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -206,7 +205,7 @@
       <workItem from="1558677409807" duration="2140000" />
       <workItem from="1559263204080" duration="12933000" />
       <workItem from="1559523246984" duration="5987000" />
-      <workItem from="1559804123775" duration="1304000" />
+      <workItem from="1559804123775" duration="1584000" />
     </task>
     <task id="LOCAL-00001" summary="提交第一个node.js程序">
       <created>1559289458365</created>
@@ -215,11 +214,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559289458365</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="node.js事件循环">
+      <created>1559805696808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559805696808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24422000" />
+    <option name="totallyTimeSpent" value="24702000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,18 +240,18 @@
     <frame x="697" y="0" width="1270" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18474843" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18425325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49915683" weight="0.20481928" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49915683" visible="true" weight="0.42168674" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32968238" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32968238" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50084317" side_tool="true" weight="0.32968238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -258,7 +264,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交第一个node.js程序" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交第一个node.js程序" />
+    <MESSAGE value="node.js事件循环" />
+    <option name="LAST_COMMIT_MESSAGE" value="node.js事件循环" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/NodeProgect/app.js">
@@ -312,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NodeProgect/main_02.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="432">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
