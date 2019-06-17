@@ -23,6 +23,7 @@ var options = {
     recursive:true,
     encoding:'utf8'
 };
+
 fs.watch('./input.txt',options,function (event,filename) {
     console.log('触发事件:'+event);
     if(filename){

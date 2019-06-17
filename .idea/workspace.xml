@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422dca8e-d242-4612-8562-965c3736fdfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NodeProgect/fileSystemOperate_dir_forEach.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.exists.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.rename.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.watchFile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NodeProgect/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NodeProgect/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.watchFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.watchFile.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,11 +28,53 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.watchFile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            <state relative-caret-position="401">
+              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeProgect/fileSystemOperate_dir_forEach.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.exists.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeProgect/FileSystemOperation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-49">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeProgect/HelloWorld.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -69,14 +107,14 @@
         <option value="$PROJECT_DIR$/NodeProgect/routes/delect.txt" />
         <option value="$PROJECT_DIR$/NodeProgect/delete.txt" />
         <option value="$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.exists.js" />
-        <option value="$PROJECT_DIR$/NodeProgect/fileSystemOperate_dir_forEach.js" />
         <option value="$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.rename.js" />
-        <option value="$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.watchFile.js" />
         <option value="$PROJECT_DIR$/NodeProgect/input.txt" />
+        <option value="$PROJECT_DIR$/NodeProgect/fileSystemOperate_dir_forEach.js" />
+        <option value="$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.watchFile.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="700" />
     <option name="y" value="4" />
     <option name="width" value="1227" />
@@ -87,7 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,12 +141,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NodeProgect/routes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -179,7 +217,8 @@
       <workItem from="1559523246984" duration="5987000" />
       <workItem from="1559804123775" duration="5039000" />
       <workItem from="1560305418856" duration="8285000" />
-      <workItem from="1560387310276" duration="21544000" />
+      <workItem from="1560387310276" duration="23081000" />
+      <workItem from="1560472728111" duration="16071000" />
     </task>
     <task id="LOCAL-00001" summary="提交第一个node.js程序">
       <created>1559289458365</created>
@@ -202,11 +241,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560321711823</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="练习node.js文件系统操作：文件是否存在、创建目录、删除文件、遍历目录、文件重命名、监听文件修改。">
+      <created>1560413865240</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560413865240</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57986000" />
+    <option name="totallyTimeSpent" value="75594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -221,12 +267,12 @@
     <frame x="700" y="4" width="1227" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19848612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1900757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49915683" visible="true" weight="0.3274918" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978974" weight="0.3833516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -234,7 +280,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32968238" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32968238" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50084317" side_tool="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021026" side_tool="true" weight="0.32968238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -247,7 +293,8 @@
     <MESSAGE value="提交第一个node.js程序" />
     <MESSAGE value="node.js事件循环" />
     <MESSAGE value="创建第一个node.js程序" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建第一个node.js程序" />
+    <MESSAGE value="练习node.js文件系统操作：文件是否存在、创建目录、删除文件、遍历目录、文件重命名、监听文件修改。" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习node.js文件系统操作：文件是否存在、创建目录、删除文件、遍历目录、文件重命名、监听文件修改。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/NodeProgect/main_03.js" />
@@ -262,13 +309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeProgect/HelloWorld.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -303,13 +343,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NodeProgect/views/FileSystem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeProgect/views/FileSystem.js" />
     <entry file="file://$PROJECT_DIR$/NodeProgect/event.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -324,58 +358,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NodeProgect/FileSystemOperation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeProgect/routes/delect.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeProgect/delete.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeProgect/newInput.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeProgect/routes/delect.txt" />
+    <entry file="file://$PROJECT_DIR$/NodeProgect/delete.txt" />
+    <entry file="file://$PROJECT_DIR$/NodeProgect/newInput.txt" />
     <entry file="file://$PROJECT_DIR$/NodeProgect/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeProgect/fileSystemOperate_dir_forEach.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.exists.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -393,10 +382,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NodeProgect/fileSystemOperate_dir_forEach.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.exists.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeProgect/FileSystemOperation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeProgect/HelloWorld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NodeProgect/fileSystemOperate_fs.watchFile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        <state relative-caret-position="401">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
