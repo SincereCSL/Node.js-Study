@@ -12,5 +12,5 @@ try {
  fs.truncateSync('./fileForRead.txt',3);
  console.log('node.js 同步方法文件内容截取成功!')
 }catch (err) {
-    console.log('node.js 同步方法文件内容截取失败:'+err);
+    console.log('node.js 同步方法文件内容截取失败!:'+err);
 }
