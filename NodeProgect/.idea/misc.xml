@@ -3,4 +3,17 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="D:/">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://cslwin10/svn/ProjectManagement" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>

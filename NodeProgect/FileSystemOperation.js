@@ -26,7 +26,7 @@ fs.readFile('./input.txt','utf-8',function(err,data){
 });
 
 console.log('=================通过文件流读取=============');
-//通过文件流读取
+//通过文件流读
 //适合读取大文件
 
 var fs = require('fs');
@@ -77,6 +77,3 @@ writeStream
 writeStream.write('你好');
 writeStream.write('node.js');
 writeStream.end('');
-
-
-
