@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ESLintProjectComponent">
+    <option name="eslintRcFile" value=".eslintrc.js" />
+    <option name="eslintExecutable" value="D:\Node.js-Study\NodeProgect\node_modules\.bin" />
+    <option name="nodeInterpreter" value="E:\node.js\node.exe" />
+    <option name="pluginEnabled" value="true" />
+  </component>
+</project>
