@@ -20,7 +20,7 @@
     "express-session": "^1.17.0",
     "express-winston": "^4.0.2",
     "marked": "^0.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongolass": "^4.4.6",
     "objectid-to-timestamp": "^1.3.0",
     "sha1": "^1.1.1",
