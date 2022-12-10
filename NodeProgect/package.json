@@ -15,7 +15,7 @@
     "connect-flash": "^0.1.1",
     "connect-mongo": "^3.2.0",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-formidable": "git+https://github.com/utatti/express-formidable.git",
     "express-session": "^1.17.0",
     "express-winston": "^4.0.2",
